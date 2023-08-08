@@ -2,7 +2,7 @@
 
 This repo contains the content for tenants of Developer Studio.
 
-To read about how to edit these files refer to the [Tenant Documentation](https://github.com/fiserv/tenant-docs)
+To read about how to edit these files refer to the [Tenant Documentation](https://fiserv.gitbook.io/tenant-docs/)
 
 
 ## Directory structure
